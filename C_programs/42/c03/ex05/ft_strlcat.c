@@ -7,7 +7,7 @@ unsigned int    ft_strlen(char *str)
         i++;
     return (i);
 }
-/*fazer main*/
+
 unsigned    int ft_strlcat(char *dest, char *src, unsigned int size)
 {
     unsigned int len_dest;
